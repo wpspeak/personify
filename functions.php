@@ -10,12 +10,6 @@ define( 'CHILD_THEME_NAME', 'Personify Pro Theme' );
 define( 'CHILD_THEME_URL', 'http://wpspeak.com/themes/personify-pro' );
 define( 'CHILD_THEME_VERSION', '1.0.0' );
 
-//* Add HTML5 markup structure
-add_theme_support( 'html5' );
-
-//* Add viewport meta tag for mobile browsers
-add_theme_support( 'genesis-responsive-viewport' );
-
 //* Enqueue Custom Scripts
 add_action( 'wp_enqueue_scripts', 'personify_custom_scripts' );
 function personify_custom_scripts() {
@@ -25,6 +19,12 @@ function personify_custom_scripts() {
 	wp_enqueue_script( 'personify-responsive-menu', get_stylesheet_directory_uri() . '/js/responsive-menu.js', array( 'jquery' ), '1.0.0', true );
 
 }
+
+//* Add HTML5 markup structure
+add_theme_support( 'html5' );
+
+//* Add viewport meta tag for mobile browsers
+add_theme_support( 'genesis-responsive-viewport' );
 
 //* Add support for custom background
 add_theme_support( 'custom-background' );
