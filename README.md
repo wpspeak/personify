@@ -9,6 +9,8 @@ Website URL: <a href="http://wpspeak.com/" target="_blank">WPSpeak.com</a>
 
 Twitter: <a href="https://twitter.com/wpspeak" target="_blank">@WPSpeak</a>
 
+Theme Info: 
+
 Theme demo: <a href="http://demo.wpspeak.com/personify/" target="_blank">Personify Pro Demo</a>
 
 <h2>Screenshot</h2>
@@ -29,7 +31,7 @@ GPL 2.0 - http://www.gnu.org/licenses/gpl-2.0.html
 
 <h2>Support</h2>
 
-Being a free product, the Creative Pro theme is offered with limited support. If you have any question and/or recommendations, please post your comment in this article [Link here]
+Being a free product, the Personify Pro theme is offered with limited support. If you have any question and/or recommendations, please post your comment in this article [Link here]
 
 
 <h2>Changelog</h2>
