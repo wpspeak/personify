@@ -27,26 +27,7 @@ function personify_custom_scripts() {
 }
 
 //* Add support for custom background
-/* add_theme_support( 'custom-background', array(
-	'default-color' => '2d2d2d',
-	'default-image'          => '%1$s/images/main-bg.png',
-	'default-repeat'         => 'no-repeat',
-	'default-repeat'     => 'no-repeat',
-	'default-position-x' => 'center',
-	'default-attachment' => 'fixed', 
-)); */
-
-function yourtheme_setup() {
-	add_theme_support(
-		'custom-background', array(
-			'default-color' => '2d2d2d',
-
-		)
-	);
-}
-add_action( 'after_setup_theme', 'yourtheme_setup' );
- 
-//add_theme_support( 'custom-background' );
+add_theme_support( 'custom-background' );
 
 //* Add support for 2-column footer widgets
 add_theme_support( 'genesis-footer-widgets', 2 );
