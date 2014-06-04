@@ -1,7 +1,7 @@
 Personify Pro Child Theme
 ============
 
-The Personify Pro Theme is a child theme of Genesis Framework and thus requires the Genesis Framework which can be purchased at http://wpspeak.com/go/genesis-framework/
+The Personify Pro Theme is a child theme of Genesis Framework and thus requires the Genesis Framework which can be purchased at <a href="http://wpspeak.com/go/genesis-framework/" target="_blank">http://wpspeak.com/go/genesis-framework/</a>
 
 Developed by WPSpeak
 
@@ -34,6 +34,6 @@ Being a free product, the Creative Pro theme is offered with limited support. If
 
 <h2>Changelog</h2>
 
-<h3>1.0.1</h3>
+<h3>1.0.0</h3>
 Initial release
 
