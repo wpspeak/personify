@@ -129,6 +129,15 @@ function personify_post_meta_filter($post_meta) {
 	
 }
 
+//* Customize Footer Text Credit
+add_filter('genesis_footer_creds_text', 'personify_footer_creds_filter');
+function personify_footer_creds_filter( $creds ) {
+	
+	$creds = '[footer_copyright] &middot;  [footer_childtheme_link before=""] &middot; Powered by [footer_genesis_link]';
+	return $creds;
+	
+}
+
 //* Add top widget section
 add_action( 'genesis_after_header', 'personify_top_widget', 15 );
 function personify_top_widget() {
