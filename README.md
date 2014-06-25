@@ -39,3 +39,9 @@ Being a free product, the Personify Pro theme is offered with limited support. I
 <h3>1.0.0</h3>
 Initial release
 
+<h3>1.0.1</h3>
+Fixed responsive menu
+
+<h2> Things To Do</h3>
+- Add .pot file
+- Support WordPress theme customizer
