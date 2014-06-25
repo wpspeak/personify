@@ -3,12 +3,12 @@
 	Description: A mobile responsive and HTML5 theme built for the Genesis Framework.
 	Author: WPSpeak
 	Author URI: http://wpspeak.com/
-	Version: 1.0.0
+	Version: 1.0.1
  
 	Tags: black, turquoise, green, pink, white, one-column, fixed-width, custom-menu, full-width-template, sticky-post, theme-options, threaded-comments
  
 	Template: genesis
-	Template Version: 2.0.1
+	Template Version: 2.0.0
  
 	License: GPL-2.0+
 	License URI: http://www.opensource.org/licenses/gpl-license.php
@@ -287,7 +287,7 @@ img {
 input,
 select,
 textarea {
-	border: 1px solid #ddd;
+	border: 1px solid #eee;
 	color: #999;
 	font-size: 14px;
 	padding: 16px;
@@ -296,7 +296,7 @@ textarea {
 
 input:focus,
 textarea:focus {
-	border: 1px solid #999;
+	border: 1px solid #ddd;
 	outline: none;
 }
 
@@ -316,8 +316,7 @@ input[type="submit"],
 .button,
 .entry-content .button {
 	background-color: #f48177;
-	border-radius: 0;
-	box-shadow: none;
+	border: none;
 	color: #fff;
 	cursor: pointer;
 	padding: 16px 20px;
@@ -334,7 +333,6 @@ input:hover[type="submit"],
 }
 
 .button {
-	border-radius: 3px;
 	display: inline-block;
 }
 
