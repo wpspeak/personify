@@ -1,4 +1,5 @@
 <?php
+
 //* Start the engine
 include_once( get_template_directory() . '/lib/init.php' );
 
@@ -8,7 +9,13 @@ include_once( get_stylesheet_directory() . '/lib/theme-defaults.php' );
 //* Child theme (do not remove)
 define( 'CHILD_THEME_NAME', 'Personify Pro Theme' );
 define( 'CHILD_THEME_URL', 'http://wpspeak.com/themes/personify-pro' );
-define( 'CHILD_THEME_VERSION', '1.0.0' );
+define( 'CHILD_THEME_VERSION', '1.0.2' );
+
+//* Add HTML5 markup structure
+add_theme_support( 'html5' );
+
+//* Add viewport meta tag for mobile browsers
+add_theme_support( 'genesis-responsive-viewport' );
 
 //* Enqueue Custom Scripts
 add_action( 'wp_enqueue_scripts', 'personify_custom_scripts' );
@@ -19,12 +26,6 @@ function personify_custom_scripts() {
 	wp_enqueue_script( 'personify-responsive-menu', get_stylesheet_directory_uri() . '/js/responsive-menu.js', array( 'jquery' ), '1.0.0', true );
 
 }
-
-//* Add HTML5 markup structure
-add_theme_support( 'html5' );
-
-//* Add viewport meta tag for mobile browsers
-add_theme_support( 'genesis-responsive-viewport' );
 
 //* Add support for custom background
 add_theme_support( 'custom-background' );
@@ -132,10 +133,10 @@ function personify_post_meta_filter($post_meta) {
 //* Customize Footer Text Credit
 add_filter('genesis_footer_creds_text', 'personify_footer_creds_filter');
 function personify_footer_creds_filter( $creds ) {
-	
+
 	$creds = '[footer_copyright] &middot;  [footer_childtheme_link before=""] &middot; Powered by [footer_genesis_link]';
 	return $creds;
-	
+
 }
 
 //* Add top widget section
