@@ -43,5 +43,6 @@ Initial release
 Fixed responsive menu
 
 <h2> Things To Do</h3>
-- Add .pot file
-- Support WordPress theme customizer
+<li>Add theme info link</li>
+<li>Add .pot file</li>
+<li>Support WordPress theme customizer</li>
