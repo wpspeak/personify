@@ -13,7 +13,7 @@ Theme demo: <a href="http://demo.wpspeak.com/personify/" target="_blank">Personi
 
 <h2>Screenshot</h2>
 
-<center><img  src="http://projek.dev/theme6/wp-content/uploads/2013/01/Photo10.jpg" alt="Personify Pro Theme" width="880" height="660" /></center>
+<center><img  src="https://raw.githubusercontent.com/wpspeak/personify-pro/master/screenshot.png" alt="Personify Pro Theme" width="880" height="660" /></center>
 
 <h2>License</h2>
 
