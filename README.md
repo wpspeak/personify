@@ -43,4 +43,4 @@ Fixed responsive menu
 
 <h2>Screenshot</h2>
 
-<center><img  src="https://raw.githubusercontent.com/wpspeak/personify-pro/master/screenshot.png" alt="Personify Pro Theme" width="880" height="660" /></center>
+<center><img  src="https://raw.githubusercontent.com/wpspeak/personify-pro/master/screenshot.png" alt="Personify Pro Theme" width="600"  /></center>
