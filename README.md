@@ -11,10 +11,6 @@ Twitter: <a href="https://twitter.com/wpspeak" target="_blank">@WPSpeak</a>
 
 Theme demo: <a href="http://demo.wpspeak.com/personify/" target="_blank">Personify Pro Demo</a>
 
-<h2>Screenshot</h2>
-
-<center><img  src="https://raw.githubusercontent.com/wpspeak/personify-pro/master/screenshot.png" alt="Personify Pro Theme" width="880" height="660" /></center>
-
 <h2>License</h2>
 
 GPL 2.0 - http://www.gnu.org/licenses/gpl-2.0.html
@@ -45,3 +41,7 @@ Fixed responsive menu
   <li>Add .pot file</li>
   <li>Support WordPress theme customizer</li>
 </ul>
+
+<h2>Screenshot</h2>
+
+<center><img  src="https://raw.githubusercontent.com/wpspeak/personify-pro/master/screenshot.png" alt="Personify Pro Theme" width="880" height="660" /></center>
