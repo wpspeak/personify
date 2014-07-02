@@ -34,12 +34,14 @@ Initial release
 <h3>1.0.1</h3>
 Fixed responsive menu
 
+<h3>1.0.2</h3>
+- Update screenshot.png
+- Update theme version
+- Changed theme name from Personify Pro to Personify
+
 <h2>Things To Do</h2>
-<ul>
-  <li>Add theme info link</li>
-  <li>Add .pot file</li>
-  <li>Support WordPress theme customizer</li>
-</ul>
+- Add theme info link
+- Add .pot file
 
 <h2>Screenshot</h2>
 
