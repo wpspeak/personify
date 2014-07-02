@@ -1,7 +1,7 @@
 Personify Pro Child Theme
 ============
 
-The Personify Pro Theme is a child theme of Genesis Framework and thus requires the Genesis Framework which can be purchased at <a href="http://wpspeak.com/go/genesis-framework/" target="_blank">http://wpspeak.com/go/genesis-framework/</a>
+The Personify Theme is a child theme of Genesis Framework and thus requires the Genesis Framework which can be purchased at <a href="http://wpspeak.com/go/genesis-framework/" target="_blank">http://wpspeak.com/go/genesis-framework/</a>
 
 Developed by WPSpeak
 
@@ -9,7 +9,7 @@ Website URL: <a href="http://wpspeak.com/" target="_blank">WPSpeak.com</a>
 
 Twitter: <a href="https://twitter.com/wpspeak" target="_blank">@WPSpeak</a>
 
-Theme demo: <a href="http://demo.wpspeak.com/personify/" target="_blank">Personify Pro Demo</a>
+Theme demo: <a href="http://demo.wpspeak.com/personify/" target="_blank">Personify Demo</a>
 
 <h2>License</h2>
 
