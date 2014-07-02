@@ -1,4 +1,4 @@
-Personify Pro Child Theme
+Personify Theme
 ============
 
 The Personify Theme is a child theme of Genesis Framework and thus requires the Genesis Framework which can be purchased at <a href="http://wpspeak.com/go/genesis-framework/" target="_blank">http://wpspeak.com/go/genesis-framework/</a>
