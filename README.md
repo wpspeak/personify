@@ -1,7 +1,7 @@
 Personify Theme
 ============
 
-Personify is a personal blogging theme built for Genesis Framework and thus requires the Genesis Framework which can be purchased at <a href="http://wpspeak.com/go/genesis-framework/" target="_blank">StudioPress</a> website.
+Personify is a personal blogging theme built for Genesis Framework and thus requires the Genesis Framework which can be purchased from <a href="http://wpspeak.com/go/genesis-framework/" target="_blank">StudioPress</a> website.
 
 
 Developed by WPSpeak
