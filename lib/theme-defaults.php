@@ -1,6 +1,6 @@
 <?php
 
-//* Wintersong Theme Setting Defaults
+//* Theme Setting Defaults
 add_filter( 'genesis_theme_settings_defaults', 'personify_theme_defaults' );
 function personify_theme_defaults( $defaults ) {
 
@@ -11,9 +11,9 @@ function personify_theme_defaults( $defaults ) {
 
 }
 
-//* Wintersong Theme Setup
-add_action( 'after_switch_theme', 'wintersong_theme_setting_defaults' );
-function wintersong_theme_setting_defaults() {
+//* Theme Setup
+add_action( 'after_switch_theme', 'personify_theme_setting_defaults' );
+function personify_theme_setting_defaults() {
 
 	_genesis_update_settings( array(
 		'posts_nav'                 => 'numeric',
@@ -25,8 +25,8 @@ function wintersong_theme_setting_defaults() {
 }
 
 //* Simple Social Icon Defaults
-add_filter( 'simple_social_default_styles', 'wintersong_social_default_styles' );
-function wintersong_social_default_styles( $defaults ) {
+add_filter( 'simple_social_default_styles', 'personify_social_default_styles' );
+function personify_social_default_styles( $defaults ) {
 
 	$args = array(
 		'alignment'              => 'aligncenter',
