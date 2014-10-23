@@ -133,7 +133,7 @@ function personify_post_meta_filter($post_meta) {
 //* Change the footer text
 add_filter('genesis_footer_creds_text', 'personify_footer_creds_filter');
 function personify_footer_creds_filter( $creds ) {
-	$creds = '[footer_copyright] &middot; ' . get_bloginfo('name') . ' &middot; [footer_childtheme_link before="Designed by "]';
+	$creds = '[footer_copyright] &middot; ' . get_bloginfo('name') . ' &middot; Proudly powered by [footer_wordpress_link] and [footer_childtheme_link before=""]';
 	return $creds;
 }
 
