@@ -27,6 +27,9 @@ function personify_custom_scripts() {
 
 }
 
+//* Add new image size
+add_image_size( 'featured-image', 620, 999, true );
+
 //* Add support for custom background
 add_theme_support( 'custom-background' );
 
