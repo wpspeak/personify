@@ -8,7 +8,7 @@ include_once( get_stylesheet_directory() . '/lib/theme-defaults.php' );
 
 //* Child theme (do not remove)
 define( 'CHILD_THEME_NAME', 'Personify Theme' );
-define( 'CHILD_THEME_URL', 'http://wpspeak.com/themes/personify-pro' );
+define( 'CHILD_THEME_URL', 'http://wpspeak.com/themes/personify-theme/' );
 define( 'CHILD_THEME_VERSION', '1.0.2' );
 
 //* Add HTML5 markup structure
